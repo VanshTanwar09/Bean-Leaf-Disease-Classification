@@ -1,4 +1,4 @@
- Bean Leaf Disease Detection
+ Bean Leaf Disease Detection(Deep Learning)
 
 CNN model for classifying bean leaf diseases using TensorFlow Datasets (TFDS).
 
